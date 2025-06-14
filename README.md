@@ -1,2 +1,2 @@
 # Berinho
-bot discord 
+Bot Discord from berolab with rust 
